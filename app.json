@@ -46,7 +46,7 @@
       },
 "GRAND_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/5be505eb97aab604353f5.jpg"    
+         "value": "hhttps://telegra.ph/file/5be505eb97aab604353f5.jpg"    
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -114,7 +114,7 @@
       "manager",
       "bot"
    ],
-   "logo": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg",
+   "logo": "https://telegra.ph/file/5be505eb97aab604353f5.jpg",
    "name": "Sparrow Bot",
    "repository": "https://github.com/proffesorx777/sparrowbot"
 }
